@@ -16,3 +16,4 @@ http://www.ifpi.org/
 http://www.nielsen.com/us/en/insights/news/2015/everyone-listens-to-music-but-how-we-listen-is-changing.html
 http://www.huffingtonpost.com/2015/03/19/streaming-music-revenue_n_6902238.html
 http://blog.echonest.com/post/77823521396/music-fans-most-distinctive-artists-by-state
+http://musicmachinery.com/2014/02/25/exploring-regional-listening-preferences/
