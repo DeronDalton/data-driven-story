@@ -1,6 +1,7 @@
 
 
 Sources: 
+
 http://www.slideshare.net/SDLonline/understanding-the-millennials-summary-of-findings-march2014 http://www.nielsen.com/us/en/insights/news/2014/meet-the-millennial-multicultural-music-listener.html http://www.census.gov/population/projections/data/national/2014/summarytables.html
 http://www.nielsen.com/us/en/insights/news/2015/everyone-listens-to-music-but-how-we-listen-is-changing.html
 http://riaa.com/media/D1F4E3E8-D3E0-FCEE-BB55-FD8B35BC8785.pdf
